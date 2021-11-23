@@ -1,1 +1,1 @@
-MainPage^Welcome#
+MainPage^#Welcome#
